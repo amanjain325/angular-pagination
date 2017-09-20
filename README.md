@@ -1,2 +1,2 @@
-# angular4-pagination
-angular4-pagination
+# angular-pagination
+angular-pagination
